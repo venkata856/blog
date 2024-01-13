@@ -1,0 +1,9 @@
+POST http://127.0.0.1:3000/user/register
+
+{
+    "firstname":"admin2",
+    "lastname":"admin2",
+    "username":"admin2",
+    "password":"admin2"
+
+}
